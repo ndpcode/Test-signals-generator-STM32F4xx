@@ -3,6 +3,7 @@
 //Created 02.02.2017
 //Created by Novikov Dmitry
 //*********************************************************************************************************//
+
 #ifndef __BSC_CONTROLS_H
 #define __BSC_CONTROLS_H
 
