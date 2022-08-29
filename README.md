@@ -11,4 +11,5 @@
 - Отдельные драйверы и компоненты этого проекта автономны и применяются также в других проектах.
 
 ## Демонстрация пользовательского интерфейса и набора функций
-[![](https://img.youtube.com/vi/q_aCrORlHpU/maxresdefault.jpg)](https://youtu.be/q_aCrORlHpU)
+- YouTube MCU STM32F4xx Signals generator user interface
+[![Видео YouTube](https://img.youtube.com/vi/q_aCrORlHpU/maxresdefault.jpg)](https://youtu.be/q_aCrORlHpU)
